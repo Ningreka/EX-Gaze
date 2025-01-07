@@ -1,0 +1,25 @@
+{
+  "metainfo": {
+    "dataset_name": "ev eye landmark labelled dataset",
+    "task_name": "origin_landmark_tracking",
+    "classes": [
+      "pupil",
+      "iris"
+    ],
+    "img_shape": [
+      260,
+      346
+    ],
+    "frame_rate": 25,
+    "user_id": 48,
+    "eye": "left",
+    "session": "201",
+    "eye_region": [
+      60,
+      42,
+      209,
+      129
+    ]
+  },
+  "data_list": []
+}

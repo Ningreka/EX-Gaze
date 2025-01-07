@@ -1,0 +1,803 @@
+{
+  "metainfo": {
+    "dataset_name": "near eye pupil labelled dataset",
+    "task_name": "pupil detect",
+    "classes": [
+      "pupil",
+      "iris"
+    ],
+    "img_shape": [
+      260,
+      346
+    ],
+    "frame_rate": 25,
+    "user_id": 48,
+    "eye": "left",
+    "session": "201",
+    "eye_region": [
+      48,
+      39,
+      253,
+      136
+    ]
+  },
+  "data_list": [
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 110,
+      "timestamp": 1658487140217583,
+      "img_filename": "000110_1658487140217583.png",
+      "instances": [
+        {
+          "ellipse": [
+            152,
+            107,
+            28.8,
+            33.942,
+            -2.356
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 210,
+      "timestamp": 1658487144217586,
+      "img_filename": "000210_1658487144217586.png",
+      "instances": [
+        {
+          "ellipse": [
+            192,
+            126,
+            32.04,
+            34.4,
+            0.05
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 310,
+      "timestamp": 1658487148217589,
+      "img_filename": "000310_1658487148217589.png",
+      "instances": [
+        {
+          "ellipse": [
+            144,
+            103,
+            28.8,
+            34.734,
+            -2.47
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 410,
+      "timestamp": 1658487152217593,
+      "img_filename": "000410_1658487152217593.png",
+      "instances": [
+        {
+          "ellipse": [
+            143,
+            113,
+            30.4,
+            35.426,
+            -2.698
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 510,
+      "timestamp": 1658487156217596,
+      "img_filename": "000510_1658487156217596.png",
+      "instances": [
+        {
+          "ellipse": [
+            175,
+            92,
+            30,
+            24,
+            0
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 610,
+      "timestamp": 1658487160217599,
+      "img_filename": "000610_1658487160217599.png",
+      "instances": [
+        {
+          "ellipse": [
+            185,
+            110,
+            32,
+            32.984,
+            2.897
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 710,
+      "timestamp": 1658487164217602,
+      "img_filename": "000710_1658487164217602.png",
+      "instances": [
+        {
+          "ellipse": [
+            126,
+            117,
+            23.866,
+            34.4,
+            0.237
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 810,
+      "timestamp": 1658487168217606,
+      "img_filename": "000810_1658487168217606.png",
+      "instances": [
+        {
+          "ellipse": [
+            115,
+            118,
+            18.4,
+            32.02,
+            0.227
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 910,
+      "timestamp": 1658487172217609,
+      "img_filename": "000910_1658487172217609.png",
+      "instances": [
+        {
+          "ellipse": [
+            126,
+            111,
+            24,
+            35.778,
+            -2.678
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1010,
+      "timestamp": 1658487176217612,
+      "img_filename": "001010_1658487176217612.png",
+      "instances": [
+        {
+          "ellipse": [
+            133,
+            111,
+            23.786,
+            31.2,
+            -2.799
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1110,
+      "timestamp": 1658487180217615,
+      "img_filename": "001110_1658487180217615.png",
+      "instances": [
+        {
+          "ellipse": [
+            184,
+            93,
+            32.8,
+            26.594,
+            -2.772
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1410,
+      "timestamp": 1658487192217625,
+      "img_filename": "001410_1658487192217625.png",
+      "instances": [
+        {
+          "ellipse": [
+            160,
+            94,
+            29.6,
+            23.786,
+            -0.343
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1510,
+      "timestamp": 1658487196217628,
+      "img_filename": "001510_1658487196217628.png",
+      "instances": [
+        {
+          "ellipse": [
+            154,
+            97,
+            35.2,
+            26.892,
+            -0.53
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1610,
+      "timestamp": 1658487200217631,
+      "img_filename": "001610_1658487200217631.png",
+      "instances": [
+        {
+          "ellipse": [
+            134,
+            118,
+            28.8,
+            34.41,
+            0.307
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1710,
+      "timestamp": 1658487204217634,
+      "img_filename": "001710_1658487204217634.png",
+      "instances": [
+        {
+          "ellipse": [
+            176,
+            110,
+            31.21,
+            30.4,
+            -3.116
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 1910,
+      "timestamp": 1658487212217641,
+      "img_filename": "001910_1658487212217641.png",
+      "instances": [
+        {
+          "ellipse": [
+            175,
+            98,
+            28.8,
+            25.612,
+            0.031
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 2210,
+      "timestamp": 1658487224217650,
+      "img_filename": "002210_1658487224217650.png",
+      "instances": [
+        {
+          "ellipse": [
+            136,
+            98,
+            22.242,
+            31.2,
+            0.658
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 2610,
+      "timestamp": 1658487240217663,
+      "img_filename": "002610_1658487240217663.png",
+      "instances": [
+        {
+          "ellipse": [
+            163,
+            114,
+            32.368,
+            34.4,
+            -2.269
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 2710,
+      "timestamp": 1658487244217666,
+      "img_filename": "002710_1658487244217666.png",
+      "instances": [
+        {
+          "ellipse": [
+            161,
+            118,
+            34.4,
+            35.21,
+            -0.023
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 2810,
+      "timestamp": 1658487248217670,
+      "img_filename": "002810_1658487248217670.png",
+      "instances": [
+        {
+          "ellipse": [
+            133,
+            101,
+            22.74,
+            33.6,
+            -2.456
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 2910,
+      "timestamp": 1658487252217673,
+      "img_filename": "002910_1658487252217673.png",
+      "instances": [
+        {
+          "ellipse": [
+            180,
+            101,
+            33.6,
+            27.492,
+            0.146
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3010,
+      "timestamp": 1658487256217676,
+      "img_filename": "003010_1658487256217676.png",
+      "instances": [
+        {
+          "ellipse": [
+            171,
+            109,
+            32,
+            28.91,
+            -0.252
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3110,
+      "timestamp": 1658487260217679,
+      "img_filename": "003110_1658487260217679.png",
+      "instances": [
+        {
+          "ellipse": [
+            169,
+            101,
+            32.8,
+            28,
+            2.92
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3210,
+      "timestamp": 1658487264217682,
+      "img_filename": "003210_1658487264217682.png",
+      "instances": [
+        {
+          "ellipse": [
+            199,
+            111,
+            34.512,
+            28,
+            0.802
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3310,
+      "timestamp": 1658487268217686,
+      "img_filename": "003310_1658487268217686.png",
+      "instances": [
+        {
+          "ellipse": [
+            151,
+            120,
+            28.722,
+            33.6,
+            0.225
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3410,
+      "timestamp": 1658487272217689,
+      "img_filename": "003410_1658487272217689.png",
+      "instances": [
+        {
+          "ellipse": [
+            161,
+            110,
+            30.568,
+            33.6,
+            0.748
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3510,
+      "timestamp": 1658487276217692,
+      "img_filename": "003510_1658487276217692.png",
+      "instances": [
+        {
+          "ellipse": [
+            163,
+            93,
+            31.648,
+            24,
+            -0.362
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3610,
+      "timestamp": 1658487280217695,
+      "img_filename": "003610_1658487280217695.png",
+      "instances": [
+        {
+          "ellipse": [
+            192,
+            102,
+            33.6,
+            29.89,
+            0.271
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 3710,
+      "timestamp": 1658487284217698,
+      "img_filename": "003710_1658487284217698.png",
+      "instances": [
+        {
+          "ellipse": [
+            160,
+            123,
+            32.984,
+            36,
+            -2.897
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4210,
+      "timestamp": 1658487304217714,
+      "img_filename": "004210_1658487304217714.png",
+      "instances": [
+        {
+          "ellipse": [
+            182,
+            120,
+            33.638,
+            32.8,
+            -0.048
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4310,
+      "timestamp": 1658487308217718,
+      "img_filename": "004310_1658487308217718.png",
+      "instances": [
+        {
+          "ellipse": [
+            200,
+            94,
+            28.8,
+            21.136,
+            0.514
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4410,
+      "timestamp": 1658487312217721,
+      "img_filename": "004410_1658487312217721.png",
+      "instances": [
+        {
+          "ellipse": [
+            159,
+            129,
+            29.644,
+            30.4,
+            -3.088
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4510,
+      "timestamp": 1658487316217724,
+      "img_filename": "004510_1658487316217724.png",
+      "instances": [
+        {
+          "ellipse": [
+            201,
+            118,
+            32,
+            31.24,
+            -0.051
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4610,
+      "timestamp": 1658487320217727,
+      "img_filename": "004610_1658487320217727.png",
+      "instances": [
+        {
+          "ellipse": [
+            132,
+            123,
+            24.8,
+            34.632,
+            0.116
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4710,
+      "timestamp": 1658487324217731,
+      "img_filename": "004710_1658487324217731.png",
+      "instances": [
+        {
+          "ellipse": [
+            141,
+            117,
+            25.424,
+            33.6,
+            0.421
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4810,
+      "timestamp": 1658487328217734,
+      "img_filename": "004810_1658487328217734.png",
+      "instances": [
+        {
+          "ellipse": [
+            187,
+            105,
+            34.4,
+            30.662,
+            0.131
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    },
+    {
+      "img_shape": [
+        260,
+        346
+      ],
+      "img_id": 4910,
+      "timestamp": 1658487332217737,
+      "img_filename": "004910_1658487332217737.png",
+      "instances": [
+        {
+          "ellipse": [
+            166,
+            110,
+            34.512,
+            29.6,
+            2.34
+          ],
+          "ellipse_label": "pupil"
+        }
+      ]
+    }
+  ]
+}
